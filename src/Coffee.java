@@ -1,5 +1,3 @@
-import com.sun.jdi.InvalidTypeException;
-
 public class Coffee {
     //COMMON ATTRIBUTES FOR COFFEE OBJECT
     String name;
